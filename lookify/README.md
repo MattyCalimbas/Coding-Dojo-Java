@@ -1,6 +1,6 @@
 # Lookify (Coding Dojo Java assignment)
 
-This is an assignment where I was tasked with the creation of a fully functional, lightweight music playlist web application. This web application has data validation, search function, and MySQL database integration for CRUD.
+This is an assignment where I was tasked with the creation of a fully functional, lightweight music playlist web application with login/registration.  With this web app, a user can upload the title of a song and it's artist and subsequently rank submitted music data. This web application has data validation, search function, and MySQL database integration for CRUD.
 
 Languages Utilized:
 <ul>
