@@ -1,6 +1,6 @@
 # CodingDojo-Java
 
-Within this repo are assignments and projects designed to demonstrate basic to advanced Java concepts using Springboot of the Springtools Suite and JavaServer Pages (.jsp files).
+Within this repo are assignments and projects designed to demonstrate basic to advanced Java concepts using Spring Boot of the Spring Tools Suite and JavaServer Pages (.jsp files).
 
 Languages Utilized:
 <ul>
